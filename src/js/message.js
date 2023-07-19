@@ -3,7 +3,7 @@ const messages = [
     "Good Afternoon",
     "Good Evening",
     "Good Night"
-]
+];
 
 var msg = messages[Math.floor(Math.random() * Math.floor(messages.length))];
 
